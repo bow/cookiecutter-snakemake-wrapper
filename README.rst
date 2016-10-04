@@ -2,7 +2,7 @@
 cookiecutter-snakemake-wrappers
 ===============================
 
-`Cookiecutter <https://github.com/audreyr/cookiecutter>_` template for writing
+`Cookiecutter <https://github.com/audreyr/cookiecutter>`_ template for writing
 a `snakemake wrapper <https://bitbucket.org/snakemake/snakemake-wrappers>`_.
 
 
