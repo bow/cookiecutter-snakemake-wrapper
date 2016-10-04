@@ -1,0 +1,12 @@
+{
+  "full_name": "Wibowo Arindrarto",
+  "email": "bow@bow.web.id",
+  "homepage": "http://bow.web.id",
+  "tool_name": "tool",
+  "bioconda_pkg_name": "{{ cookiecutter.tool_name.lower() }}",
+  "bioconda_pkg_version": null,
+  "license": ["BSD", "MIT"],
+  "use_extra_params": true,
+  "use_logging": true,
+  "discipline": "bio"
+}

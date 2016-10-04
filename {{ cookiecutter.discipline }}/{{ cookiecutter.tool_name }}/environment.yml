@@ -1,0 +1,5 @@
+channels:
+  - bioconda
+  - r
+dependencies:
+  - {{ cookiecutter.bioconda_pkg_name }} {% if cookiecutter.bioconda_pkg_version %}=={{ cookiecutter.bioconda_pkg_version }}{% endif %}
