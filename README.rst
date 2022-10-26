@@ -1,3 +1,10 @@
+==================
+:warning: archived
+==================
+
+I am no longer working on this repository and have therefore decided to archive it.
+
+
 ===============================
 cookiecutter-snakemake-wrappers
 ===============================
